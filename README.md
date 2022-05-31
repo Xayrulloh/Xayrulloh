@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Xayrulloh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xyrulloh&show_icons=true&theme=dracula)
+![Xayrulloh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xayrulloh&show_icons=true&theme=dracula)
 <!--
 **Xayrulloh/Xayrulloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
