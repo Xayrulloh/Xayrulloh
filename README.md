@@ -50,7 +50,6 @@
 <a href = "https://leetcode.com/Xayrulloh/"><img src="https://imgs.search.brave.com/rHLyNI-f0Y0glJ9_gHcFXoZU23z079ILeooxhsd7HiU/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9jZG4t/MS53ZWJjYXRhbG9n/LmlvL2NhdGFsb2cv/bGVldGNvZGUvbGVl/dGNvZGUtaWNvbi5w/bmc" width="48" height="48"/></a>
 </p>
 
-
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Xayrulloh/Xayrulloh/blob/output/github-contribution-grid-snake.gif)
 
