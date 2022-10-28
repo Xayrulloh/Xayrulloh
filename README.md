@@ -45,9 +45,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/xayrulloh-abduvohidov-846b55231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://t.me/Xayrulloh_Abduvohidov"><img src="https://imgs.search.brave.com/RvTZ8qU_Nxbhshf0IJPuYbvweWCCfxU5UqE2O0ZFDrg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdn/cmlkLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8wNC90/ZWxlZ3JhbS1sb2dv/LWNpcmNsZS0yMDQ4/eDIwNDgucG5n"/></a>
-<a href = "xayrullohabduvohidov713@gmail.com"><img src="https://imgs.search.brave.com/upPOvPQWfI54Pt2Q2MYmHbkb0WeT2nyuwWjz_4nD2rw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly92ZWN0/b3JpZmllZC5jb20v/aW1hZ2UvZ21haWwt/aWNvbi12ZWN0b3It/OC5wbmc"/></a>
-<a href = "https://leetcode.com/Xayrulloh/"><img src="https://imgs.search.brave.com/rHLyNI-f0Y0glJ9_gHcFXoZU23z079ILeooxhsd7HiU/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9jZG4t/MS53ZWJjYXRhbG9n/LmlvL2NhdGFsb2cv/bGVldGNvZGUvbGVl/dGNvZGUtaWNvbi5w/bmc"/></a>
+<a href = "https://t.me/Xayrulloh_Abduvohidov"><img src="https://imgs.search.brave.com/RvTZ8qU_Nxbhshf0IJPuYbvweWCCfxU5UqE2O0ZFDrg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdn/cmlkLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8wNC90/ZWxlZ3JhbS1sb2dv/LWNpcmNsZS0yMDQ4/eDIwNDgucG5n" width="48" height="48"/></a>
+<a href = "xayrullohabduvohidov713@gmail.com"><img src="https://imgs.search.brave.com/upPOvPQWfI54Pt2Q2MYmHbkb0WeT2nyuwWjz_4nD2rw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly92ZWN0/b3JpZmllZC5jb20v/aW1hZ2UvZ21haWwt/aWNvbi12ZWN0b3It/OC5wbmc" width="48" height="48"/></a>
+<a href = "https://leetcode.com/Xayrulloh/"><img src="https://imgs.search.brave.com/rHLyNI-f0Y0glJ9_gHcFXoZU23z079ILeooxhsd7HiU/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9jZG4t/MS53ZWJjYXRhbG9n/LmlvL2NhdGFsb2cv/bGVldGNvZGUvbGVl/dGNvZGUtaWNvbi5w/bmc" width="48" height="48"/></a>
 </p>
 
 
