@@ -22,7 +22,7 @@
 <br>
 <br>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank"> <img src="https://nestjs.com/img/nest-og.png" alt="nestjs" width="40" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1600/0*kS3GZAc7IGO3gvxx.png" alt="nestjs" width="40" height="40"/></a>
 <br>
 <br>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
