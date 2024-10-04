@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
-  </p>
+  <img width="auto" height="auto" src="https://firebasestorage.googleapis.com/v0/b/personal-cf166.appspot.com/o/github.readme.png?alt=media&token=e4d2cc49-7d62-461f-b02b-12cb839dc3c2"/>
+</p>
 <h1 align="center">Hi 👋, I'm Xayrulloh Abduvohidov</h1>
-<h3 align="center">A Middle Backend Engineer from Uzbekistan</h3>
+<h3 align="center">A Software Engineer from Uzbekistan</h3>
 
 <br>
 <br>
