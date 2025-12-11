@@ -4,10 +4,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Xayrulloh Abduvohidov</h1>
 <h4 align="center">
-    Highly skilled and results-driven backend developer with 3+ years of experience designing, building, and maintaining scalable server-side applications. Adept at crafting high-performance RESTful APIs, integrating third-party services, and optimizing systems for speed, security, and reliability. Proven track record of leveraging modern tools like AWS, Cloudflare, and Firebase to deploy and manage cloud-native solutions, alongside hands-on expertise in microservices architecture and databases such as MongoDB and PostgreSQL. <br><br>
-  A creative problem-solver with a passion for innovation, I thrive on conceptualizing and launching new projects—from prototyping experimental tools to refining existing systems. My curiosity drives me to stay ahead of industry trends, allowing me to implement cutting-edge technologies like serverless architectures and real-time data solutions. <br><br>
-  Whether collaborating with cross-functional teams or independently driving initiatives, I prioritize clean code, thorough documentation, and solutions that align with business goals. Outside of work, I actively contribute to open-source projects and experiment with emerging frameworks to expand my technical versatility. <br><br>
-  Committed to delivering high-quality, maintainable code that scales, I excel in dynamic environments where technical excellence meets forward-thinking vision.
+    Highly skilled and results-driven Software Engineer with 5+ years of experience in designing, building, and maintaining scalable, full-stack applications. <br><br> 
+  I specialize in backend development with Node.js, TypeScript, and modern frameworks like NestJS, while also possessing extensive frontend experience with React and Astro. <br><br> 
+  My expertise spans from architecting high-performance APIs (REST, GraphQL, gRPC) and event-driven microservices to implementing cloud-native solutions across AWS, GCP, and Cloudflare. 
 </h4>
 
 <br>
